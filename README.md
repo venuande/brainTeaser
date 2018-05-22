@@ -1,0 +1,2 @@
+# brainTeaser
+random calculations game
